@@ -1,1 +1,1 @@
-# Website des GTA
+# Website der GTA
