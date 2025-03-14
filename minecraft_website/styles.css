@@ -4,11 +4,16 @@
     text-align: center;
 }
 .background {
-    width: 100%;
-    background: url(PC_Bundle_Deluxe_Desktop.jpg);
-    background-size: cover;
+    background-color: rgb(223, 141, 19);
 }
 .img_container {
     display: flex;
     justify-content: center;
+}
+.button001 {
+    border-radius: 45%;
+    height: 50px;
+    width: 100px;
+    font-size: 200%;
+    background-color: blue;
 }
